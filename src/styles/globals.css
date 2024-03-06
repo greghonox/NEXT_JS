@@ -27,7 +27,7 @@ body {
 }
 
 p {
-  font-size: 100px;
+  font-size: 90px;
 }
 
 a {
@@ -35,6 +35,11 @@ a {
 }
 
 div {
-  font-size: 100px;
+  font-size: 90px;
   color: red;
+}
+
+.footer {
+  font-size: 50px;
+  color: green;
 }

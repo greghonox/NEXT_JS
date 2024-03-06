@@ -1,6 +1,3 @@
-import  NavBar from '../../components/navbar';
-
-
 const randomNumber = Math.random();
 
 const products = [
@@ -19,7 +16,6 @@ export default function Products() {
                     {product.name}
                 </div>
             ))}
-        <NavBar />
         </center>
     );
 }

@@ -1,5 +1,3 @@
-import  NavBar from '../../../components/navbar';
-
 export default function ShirtRed() {
     var title = `Red Shirt Page`;
     return (
@@ -7,7 +5,6 @@ export default function ShirtRed() {
             <p>
                 {title}
             </p>
-            <NavBar />
         </center>
     );
 }
