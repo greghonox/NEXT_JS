@@ -1,3 +1,5 @@
+import  NavBar from '../../../components/navbar';
+
 export default function Shirt() {
     var title = `Shirt Page`;
     return (
@@ -5,6 +7,7 @@ export default function Shirt() {
             <p>
                 {title}
             </p>
+            <NavBar />
         </center>
     );
 }
