@@ -1,10 +1,10 @@
 export default function Navbar() {
     return (
-        <center>
-            <a href="/">Home</a><br/>
-            <a href="/products">Products</a><br/>
-            <a href="/products/shirt">shirt</a><br/>
-            <a href="/products/shirt/shirt_red">shirt red</a>
+        <center class='navbar'>
+            <a class='title' href="/">Home</a><br/>
+            <a class='title' href="/products">Products</a><br/>
+            <a class='title' href="/products/shirt">shirt</a><br/>
+            <a class='title' href="/products/shirt/shirt_red">shirt red</a>
         </center>
     );
 }

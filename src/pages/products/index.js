@@ -12,9 +12,9 @@ export default function Products() {
         <center>
             {title}
             {products.map((product) => (
-                <div>
+                <li>
                     {product.name}
-                </div>
+                </li>
             ))}
         </center>
     );

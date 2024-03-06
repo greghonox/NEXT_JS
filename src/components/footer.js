@@ -1,7 +1,7 @@
 export default function Footer() {
     return (
-        <center>
-            <p class="footer">
+        <center class="footer">
+            <p>
                 This is the footer
             </p>
         </center>
