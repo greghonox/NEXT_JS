@@ -80,3 +80,9 @@ li:hover {
 .title:hover{
   color: #999;
 }
+
+.legs:hover{
+  background-color: salmon;
+  border: #999;
+  height: 600px;
+}
