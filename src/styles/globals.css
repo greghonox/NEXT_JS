@@ -86,3 +86,8 @@ li:hover {
   border: #999;
   height: 600px;
 }
+
+.about{
+  background-color: rebeccapurple;
+  height: 600px;
+}
