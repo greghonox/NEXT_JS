@@ -71,6 +71,7 @@ li:hover {
 }
 
 .title {
+  font-size: 50px;
   margin-right: 80px;
   color: white;
   text-decoration: none;
@@ -78,7 +79,7 @@ li:hover {
 }
 
 .title:hover{
-  color: #999;
+  color: #bd2e2e;
 }
 
 .legs:hover{
@@ -90,4 +91,13 @@ li:hover {
 .about{
   background-color: rebeccapurple;
   height: 600px;
+}
+.titleapi {
+  font-size: 30px;
+  color: blue;
+}
+
+.descriptionapi {
+  font-size: 20px;
+  color: red;
 }

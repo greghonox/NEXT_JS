@@ -10,6 +10,7 @@ export default function Navbar() {
             <a class='title' href="/products/shirt/shirt_red">shirt red</a>
             <a class='title' href="/products/legs">legs</a>
             <a class='title' href="/about">About</a>
+            <a class='title' href="/apis">Api</a>
             <Image src="/mario.png" alt="Vercel Logo" width={72} height={16} />
         </center>
     );
